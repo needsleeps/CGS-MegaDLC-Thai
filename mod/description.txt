@@ -1,15 +1,25 @@
 [h1]Thai Translation for CGS Mega DLC | ภาษาไทยสำหรับ CGS Mega DLC[/h1]
 
-ม็อดแปลภาษาไทยสำหรับเนื้อหาที่ม็อด CGS Mega DLC (THE MOST COMPLETE MOD) เพิ่มเข้ามา ได้แก่ ธีมเกม คำวิจารณ์ของนิตยสาร อีเวนต์สุ่ม ฟีเจอร์เอนจิน ฟีเจอร์ร้านค้าดิจิทัล ระดับความยาก และชื่อแผนที่
+ม็อดแปลภาษาไทยสำหรับเนื้อหาที่ม็อด CGS Mega DLC (THE MOST COMPLETE MOD) เพิ่มเข้ามา รวม 503 ข้อความ ได้แก่ ธีมเกม คำวิจารณ์ของนิตยสาร อีเวนต์สุ่ม ฟีเจอร์เอนจิน ฟีเจอร์ร้านค้าดิจิทัล ระดับความยาก และชื่อแผนที่
 
 [b]สิ่งที่ต้องมี[/b]
 [list]
 [*]CGS Mega DLC (THE MOST COMPLETE MOD)
-[*]Thai Translation (ม็อดแปลไทยตัวเกมหลัก) สำหรับภาษา "ไทย (NeedSleep)"
+[*]แนะนำ: Thai Translation - NeedSleep (ม็อดแปลไทยตัวเกมหลัก) https://steamcommunity.com/sharedfiles/filedetails/?id=3846114491
 [/list]
 
-ชื่อแบรนด์ ชื่อเครื่อง ชื่อบริษัท และชื่อเกมจริง คงเป็นภาษาอังกฤษตามต้นฉบับ
+ใช้ได้ทั้งกับภาษา "ไทย (NeedSleep)" และภาษา "ไทย" ที่มากับเกม
+
+[b]ข้อควรรู้[/b]
+[list]
+[*]ณ 26 พ.ย. 2026 ตัว CGS Mega DLC เองยังใช้กับเกมเวอร์ชันล่าสุด (v1.29.0) ไม่ได้ เกมแจ้งว่า Invalid ม็อดแปลนี้จะเห็นผลเมื่อ CGS Mega DLC กลับมาใช้งานได้
+[*]ชื่อแพลตฟอร์ม ชิ้นส่วนเครื่อง บริษัท บุคคล และชื่อเกมจริง คงเป็นภาษาอังกฤษ
+[*]ข้อความยาวเกิน 128 ตัวอักษร 30 ข้อความยังเป็นภาษาอังกฤษ เพราะข้อจำกัดของระบบม็อดของเกม
+[/list]
+
+ซอร์สและแจ้งคำแปลผิด: https://github.com/needsleeps/CGS-MegaDLC-Thai
 
 [hr][/hr]
 
-Thai translation of the text added by CGS Mega DLC (themes, magazine reviews, events, engine and store features). Requires CGS Mega DLC.
+[b]English[/b]
+Thai translation of the text added by CGS Mega DLC (themes, magazine reviews, events, engine and store features). Requires CGS Mega DLC. Note: as of 26 Nov 2026, CGS Mega DLC itself is reported Invalid by game v1.29.0; this translation takes effect once that mod works again.
