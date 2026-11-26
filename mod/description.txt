@@ -1,0 +1,15 @@
+[h1]Thai Translation for CGS Mega DLC | ภาษาไทยสำหรับ CGS Mega DLC[/h1]
+
+ม็อดแปลภาษาไทยสำหรับเนื้อหาที่ม็อด CGS Mega DLC (THE MOST COMPLETE MOD) เพิ่มเข้ามา ได้แก่ ธีมเกม คำวิจารณ์ของนิตยสาร อีเวนต์สุ่ม ฟีเจอร์เอนจิน ฟีเจอร์ร้านค้าดิจิทัล ระดับความยาก และชื่อแผนที่
+
+[b]สิ่งที่ต้องมี[/b]
+[list]
+[*]CGS Mega DLC (THE MOST COMPLETE MOD)
+[*]Thai Translation (ม็อดแปลไทยตัวเกมหลัก) สำหรับภาษา "ไทย (NeedSleep)"
+[/list]
+
+ชื่อแบรนด์ ชื่อเครื่อง ชื่อบริษัท และชื่อเกมจริง คงเป็นภาษาอังกฤษตามต้นฉบับ
+
+[hr][/hr]
+
+Thai translation of the text added by CGS Mega DLC (themes, magazine reviews, events, engine and store features). Requires CGS Mega DLC.
